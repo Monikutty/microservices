@@ -1,0 +1,1 @@
+insert into details(id,name)values(101,'monisha');
