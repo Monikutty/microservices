@@ -1,0 +1,1 @@
+alter table details add address varchar(30);
