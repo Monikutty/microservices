@@ -1,0 +1,1 @@
+alter table details rename to student_details;
